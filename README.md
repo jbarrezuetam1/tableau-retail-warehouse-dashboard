@@ -4,7 +4,7 @@ Interactive sales dashboard built in Tableau analyzing retail
 and warehouse performance across months, quarters, and years.
 
 ## Live Dashboard
-https://public.tableau.com/views/WarehouseSales2017-2020/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[View on Tableau Public](https://public.tableau.com/views/WarehouseSales2017-2020/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Dataset
 - Source: Warehouse and Retail Sales dataset from: https://catalog.data.gov/dataset/warehouse-and-retail-sales
