@@ -7,7 +7,7 @@ and warehouse performance across months, quarters, and years.
 [View on Tableau Public](https://public.tableau.com/views/WarehouseSales2017-2020/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Dataset
-- Source: Warehouse and Retail Sales dataset from: https://catalog.data.gov/dataset/warehouse-and-retail-sales
+- Source: Warehouse and Retail Sales dataset from: [DATA.GOV — Warehouse and Retail Sales](https://catalog.data.gov/dataset/warehouse-and-retail-sales)
 - Fields: Item Code, Item Description, Item Type, Supplier, 
   Month, Year, Retail Sales, Retail Transfers, Warehouse Sales
 
